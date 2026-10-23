@@ -1,6 +1,9 @@
 # aiaa-eda-team1
 
 AI Academy Asia, **1-р баг** — Монголын нээлттэй өгөгдлийн EDA хийх туслах функцууд.
+
+**PyPI:** https://pypi.org/project/aiaa-eda-team1/ — хувилбар 0.1.0, 2026.10.23-нд байршуулсан. Суулгах: `pip install aiaa-eda-team1`.
+
 Төсөл: «Монгол Улсын хүн амын шилжилт хөдөлгөөн: аймгуудын харьцуулалт» (ҮСХ, 1212.mn, хүснэгт DT_NSO_0300_040V1).
 
 > Багийн дугаар өөр бол `aiaa-eda-team1` → `aiaa-eda-team<N>` (pyproject.toml, хавтасны нэр `aiaa_eda_team<N>`, notebook дахь `import`) гэж солино.
